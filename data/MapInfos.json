@@ -1,0 +1,22 @@
+[
+null,
+{"id":1,"expanded":true,"name":"世界地图","order":1,"parentId":0,"scrollX":978,"scrollY":578},
+{"id":2,"expanded":true,"name":"CG1","order":18,"parentId":0,"scrollX":571,"scrollY":426},
+{"id":3,"expanded":true,"name":"森林","order":2,"parentId":1,"scrollX":869,"scrollY":578},
+{"id":4,"expanded":false,"name":"CG2","order":19,"parentId":0,"scrollX":772,"scrollY":520},
+{"id":5,"expanded":false,"name":"老师家","order":3,"parentId":3,"scrollX":579,"scrollY":390},
+{"id":6,"expanded":true,"name":"森林小镇","order":4,"parentId":1,"scrollX":816,"scrollY":1538},
+{"id":7,"expanded":false,"name":"埃尔文","order":14,"parentId":1,"scrollX":1088,"scrollY":624},
+{"id":8,"expanded":false,"name":"埃尔文下","order":16,"parentId":1,"scrollX":718,"scrollY":1538},
+{"id":9,"expanded":false,"name":"石洞","order":17,"parentId":1,"scrollX":978,"scrollY":1058},
+{"id":10,"expanded":false,"name":"物品商店","order":15,"parentId":7,"scrollX":579,"scrollY":390},
+{"id":11,"expanded":false,"name":"小村民居 1F","order":5,"parentId":6,"scrollX":571,"scrollY":474},
+{"id":12,"expanded":false,"name":"小村民居 2F","order":6,"parentId":11,"scrollX":0,"scrollY":0},
+{"id":13,"expanded":false,"name":"宅邸","order":7,"parentId":6,"scrollX":1207,"scrollY":1117},
+{"id":14,"expanded":false,"name":"民居 ","order":8,"parentId":6,"scrollX":832,"scrollY":640},
+{"id":15,"expanded":false,"name":"武器商店","order":11,"parentId":6,"scrollX":579,"scrollY":390},
+{"id":16,"expanded":true,"name":"旅馆 1F","order":9,"parentId":14,"scrollX":832,"scrollY":640},
+{"id":17,"expanded":false,"name":"旅馆 2F","order":10,"parentId":16,"scrollX":832,"scrollY":640},
+{"id":18,"expanded":false,"name":"民居 2","order":12,"parentId":6,"scrollX":571,"scrollY":390},
+{"id":19,"expanded":false,"name":"酒馆","order":13,"parentId":6,"scrollX":571,"scrollY":474}
+]
